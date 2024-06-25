@@ -15,7 +15,7 @@ print("Original Labels:")
 print(class_labels)
 
 print("\nOne-Hot Encoded Matrix:")
-print(one_hot_encoded)
+print(one_hot_encoded)```
 
 
 # One-Hot Encoding and Simple Word2Vec Implementation
